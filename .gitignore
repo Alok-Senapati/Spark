@@ -30,6 +30,10 @@ target/
 */.idea/*
 */.bsp
 */.idea
+*/app-logs/*
+**/app-logs/*
+*/app-logs
+**/app-logs
 
 ### Eclipse ###
 .apt_generated
